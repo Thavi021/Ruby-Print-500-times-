@@ -1,0 +1,3 @@
+500.times do
+  print '               Follow @Device_Devs on Instagram & View my GitHub: https://github.com/Thavi021            '
+end
